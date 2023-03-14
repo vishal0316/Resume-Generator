@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+
+}
+
+body{
+    background-color:  #e4b836;
+}
+
+
+#cv-template{
+    display: none; } 
+
+
+
+
+
+
+.myimg{
+    border: 2px solid red;
+    border-radius: 50%;
+    height: 180px;
+    width: 180px;
+
+}
+
+.background{
+    background-color:royalblue; 
+
+}
+
+a {
+    color:#e4b836; /* set the link color to red */
+  }
+
+a:visited {
+    color: purple; /* set the color of visited links to purple */
+  }
+
+  a:hover {
+    color: rgb(0, 47, 255); /* set the color of links on hover to blue */
+  }  
+
